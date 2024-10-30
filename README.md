@@ -15,7 +15,7 @@ yay -Sy --noconfirm && yay -S --noconfirm hyprland-nvidia-git waybar-hyprland-gi
 ```
 ### Install config
 ```bash
-rm ~/.zshrc && cd jzhypr && stow */
+rm ~/.zshrc && cd hypr && stow */
 ```
 ## Custom Shortcuts
 
