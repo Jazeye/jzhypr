@@ -1,0 +1,10 @@
+known_hosts
+known_hosts.old
+.so
+mpd.db
+mpd.log
+mpdstate
+*.onnx
+*.onnx.json
+!./obs-studio/.config/obs-studio/basic/profiles/Untitled/basic.ini
+./dolphin/.config/dolphinrc
